@@ -2,6 +2,7 @@
 """
 Created on Mon Jun 21 13:55:10 2021
 
+This script processes the output solution files from Master_v5_4.py, and generates graphs that help to visualize the results.
 @author: Rebecca
 """
 # %% Import Packages
