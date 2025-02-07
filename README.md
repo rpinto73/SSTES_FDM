@@ -6,3 +6,5 @@ To use the code, download the three script files and create a directory structur
 The script Master_v5_4.py is the script that needs to be run first - it has the numerical model that will generate the solution output files. 
 The script Master_process_simu_data.py should be run second - it will process the output files and visualize the solution data.
 The script func_readSerrData.py is an accessory script, containing functions that are pulled by the other file(s).
+
+**Update**: A User had indicated that when they downloaded the files from model and tried to run it, they were missing a file called "Serrano_dat_headers.csv". I have now added that file to the repository.
